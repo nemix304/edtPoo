@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1519323728 source:c:\users\nem_\desktop\lab\edt\main.cpp
+	<iostream>
+	"teacher.h"
+	"group.h"
+	"hour.h"
+	<string>
+
+1519322818 source:c:\users\nem_\desktop\lab\edt\src\edt.cpp
+	"edt.h"
+
+1519322819 c:\users\nem_\desktop\lab\edt\include\edt.h
+	"teacher.h"
+	"group.h"
+	"hour.h"
+	<string>
+
+1519323870 c:\users\nem_\desktop\lab\edt\include\teacher.h
+	<string>
+
+1519323894 c:\users\nem_\desktop\lab\edt\include\group.h
+	<string>
+
+1519323882 c:\users\nem_\desktop\lab\edt\include\hour.h
+
+1519322701 source:c:\users\nem_\desktop\lab\edt\src\group.cpp
+	"group.h"
+
+1519323287 source:c:\users\nem_\desktop\lab\edt\src\hour.cpp
+	"hour.h"
+
+1519323225 source:c:\users\nem_\desktop\lab\edt\src\teacher.cpp
+	"teacher.h"
+
+1519323512 source:c:\users\nem_\desktop\lab\edt\src\class.cpp
+	"class.h"
+
+1519323079 c:\users\nem_\desktop\lab\edt\include\class.h
+	"teacher.h"
+	"group.h"
+	"hour.h"
+	<string>
+
