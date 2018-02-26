@@ -41,3 +41,56 @@
 	"hour.h"
 	<string>
 
+1519669151 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\main.cpp
+	<iostream>
+	"teacher.h"
+	"group.h"
+	"edt.h"
+	"cours.h"
+	<string>
+	<vector>
+
+1519323870 c:\users\nem_\desktop\lab\edtpoo\edtpoo\include\teacher.h
+	<string>
+
+1519323894 c:\users\nem_\desktop\lab\edtpoo\edtpoo\include\group.h
+	<string>
+
+1519660335 c:\users\nem_\desktop\lab\edtpoo\edtpoo\include\hour.h
+
+1519324210 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\src\class.cpp
+	"class.h"
+
+1519324188 c:\users\nem_\desktop\lab\edtpoo\edtpoo\include\class.h
+	"teacher.h"
+	"group.h"
+	"hour.h"
+	<string>
+
+1519667311 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\src\edt.cpp
+	"edt.h"
+
+1519668563 c:\users\nem_\desktop\lab\edtpoo\edtpoo\include\edt.h
+	<vector>
+	"teacher.h"
+	"group.h"
+	"cours.h"
+	<string>
+
+1519322701 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\src\group.cpp
+	"group.h"
+
+1519323287 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\src\hour.cpp
+	"hour.h"
+
+1519668779 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\src\teacher.cpp
+	"teacher.h"
+
+1519661168 source:c:\users\nem_\desktop\lab\edtpoo\edtpoo\src\cours.cpp
+	"cours.h"
+
+1519666407 c:\users\nem_\desktop\lab\edtpoo\edtpoo\include\cours.h
+	"teacher.h"
+	"group.h"
+	<string>
+
